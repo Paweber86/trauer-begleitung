@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://github.com/Paweber86/trauer-begleitung"
 title = "Bärbel Frohnmeier"
 theme = "hugo-coder"
 languageCode = "de-DE"
