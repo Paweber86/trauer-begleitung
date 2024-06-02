@@ -3,7 +3,7 @@ title = "Über mich"
 description = "Was mich aus macht"
 date = "2024-06-01"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Bärbel Frohnmeier"
+author = "Bärbel Frohnmaier"
 +++
 
 Hier steht etwas über mich .....

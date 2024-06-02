@@ -1,5 +1,5 @@
 +++
-authors = ["Bärbel Frohnmeier"]
+authors = ["Bärbel Frohnmaier"]
 title = "Mein 1. Beitrag"
 date = "2024-06-01"
 description = "Beschreibungs Text"

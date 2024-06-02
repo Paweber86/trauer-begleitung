@@ -1,5 +1,5 @@
 baseURL = "https://github.com/Paweber86/trauer-begleitung"
-title = "Bärbel Frohnmeier"
+title = "Bärbel Frohnmaier"
 theme = "hugo-coder"
 languageCode = "de-DE"
 defaultContentLanguage = 'de'
@@ -15,9 +15,9 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Bärbel Frohnmeier"
+author = "Bärbel Frohnmaier"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Trauer Begleitung Bärbel Frohnmeier"
+description = "Trauer Begleitung Bärbel Frohnmaier"
 keywords = "Hier, stehen, Schlüsselwörter"
 info = ["Trauer", "Begleitung"]
 avatarURL = "images/umbrella.jpeg"
