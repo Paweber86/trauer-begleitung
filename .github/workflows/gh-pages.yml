@@ -9,6 +9,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
+      pages: write
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
